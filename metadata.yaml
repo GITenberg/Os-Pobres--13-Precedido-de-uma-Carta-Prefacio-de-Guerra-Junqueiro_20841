@@ -1,0 +1,56 @@
+_repo: Os-Pobres--13-Precedido-de-uma-Carta-Prefacio-de-Guerra-Junqueiro_20841
+_version: 0.1.0
+alternative_title: "Os Pobres\r\nPrecedido de uma Carta-Prefácio de Guerra Junqueiro"
+contributor:
+  contributor:
+    agent_name: Junqueiro, Abílio Manuel Guerra
+    aliases:
+    - Junqueiro, Abilio Manuel Guerra
+    - Junqueiro, Guerra
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '6701'
+    url: http://www.gutenberg.org/2009/agents/6701
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Guerra_Junqueiro
+    - http://en.wikipedia.org/wiki/Guerra_Junqueiro
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brandão, Raul
+    aliases:
+    - Brandão, Raul Germano
+    - Brandão, Raúl
+    - Brandao, Raul Germano
+    birthdate: 1867
+    deathdate: 1930
+    gutenberg_agent_id: '9556'
+    url: http://www.gutenberg.org/2009/agents/9556
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Raul_Brand%C3%A3o
+    - http://en.wikipedia.org/wiki/Raul_Brand%C3%A3o
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2007-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20841'
+language: pt
+language_note: "This ebook uses a beginning of the 20th century spelling.\r\nFor a\
+  \ spelling modernization following Standard Portuguese from the beginning of the\
+  \ 21st century see: EText-No. #22057"
+production_note: Produced by Rita Farinha and the Online Distributed Proofreading
+  Team at http://www.pgdp.net from images generously made available by National Library
+  of Portugal (Biblioteca Nacional de Portugal)
+publication_note: "Lisboa:\r\nEmpreza da Historia de Portugal\r\nSociedade Editora\r\
+  \nLivraria Moderna, R. Augusta, 95\r\nTypographia R. Ivens, 45 e 47\r\n1906"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poor -- Fiction'
+title: "Os Pobres\r\nPrecedido de uma Carta-Prefacio de Guerra Junqueiro"
+url: http://www.gutenberg.org/ebooks/20841
