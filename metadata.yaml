@@ -32,6 +32,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Raul_Brand%C3%A3o
     - http://en.wikipedia.org/wiki/Raul_Brand%C3%A3o
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20841#Os-Pobres--13-Precedido-de-uma-Carta-Prefacio-de-Guerra-Junqueiro
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2007-03-17'
 gutenberg_type: Text
